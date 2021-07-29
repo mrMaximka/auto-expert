@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Auto Expert</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="default_coins">0</string>
+    <string name="default_icon">coin</string>
+    <string name="add_coins">+10</string>
+    <string name="dialog_help_add">Открыть букву — 10</string>
+    <string name="dialog_help_del">Убрать лишнее — 20</string>
+    <string name="dialog_help_answer">Решить — 50</string>
+    <string name="start_welcome">Здравствуйте, %s</string>
+    <string name="category_answers">Отгадано %s / %s</string>
+    <string name="alert_collizion_title">Внимание!</string>
+    <string name="alert_collizion_message">Данная учетная запись уже существует.\n Использовать сохраненные данные?</string>
+    <string name="alert_collizion_agree">Использовать сохраненные данные</string>
+    <string name="alert_collizion_cancel">Отмена</string>
+    <string name="alert_loading_message">Загрузка аккаунта...</string>
+    <string name="image_description_default">description</string>
+    <string name="alert_description_btn">Дальше</string>
+    <string name="category_parts_text">Запчасти</string>
+    <string name="category_logo_name">Логотипы</string>
+    <string name="start_btn_text">Начать</string>
+    <string name="start_exit_btn_text">Выйти</string>
+</resources>
